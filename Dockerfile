@@ -1,6 +1,6 @@
 FROM python
 
-WORKDIR /app
+WORKDIR /flask_app
 
 COPY . .
 
